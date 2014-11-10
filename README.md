@@ -15,4 +15,4 @@ This is a trial project for JPA2.1 with Spring
 4. Directly create REST API with Spring Data REST
 
 5. Spring boot-ify it
-
+####Added a new branch named JPA
