@@ -11,6 +11,7 @@ http://www.springframework.org/schema/context
 
     <context:component-scan base-package="com.backbase.training.*"/>
     <mvc:annotation-driven/>
+    <mvc:resources mapping="/resources/**" location="/resources/" />
 
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix">
@@ -21,6 +22,15 @@ http://www.springframework.org/schema/context
         </property>
 
     </bean>
+
+    <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter">
+        <property name="messageConverters">
+            <list>
+                <ref bean="jsonMessageConvertor"></ref>
+            </list>
+        </property>
+    </bean>
+    <bean id="jsonMessageConvertor"  class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter"></bean>
 
     <import resource="controllers.xml" />
 

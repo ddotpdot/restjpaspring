@@ -1,6 +1,7 @@
 
 package com.backbase.training.rest.model;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -22,7 +23,7 @@ import org.apache.commons.lang.builder.ToStringBuilder;
     "totalPortfolioValueOverPeriod",
     "allocations"
 })
-public class InvestmentAccountPortfolio {
+public class InvestmentAccountPortfolio implements Serializable {
 
     @JsonProperty("accountId")
     private String accountId;
