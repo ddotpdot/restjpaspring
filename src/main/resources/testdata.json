@@ -1,0 +1,282 @@
+{
+  "accountId": "676-0000000-14",
+  "performanceAvailable": false,
+  "totalPortfolioValueOverPeriod": {
+    "yearly": [
+      {
+        "date": "2013",
+        "datapoint": {
+          "cashIn": 0,
+          "cashOut": 32983,
+          "totalPortfolioValue": 8746283.53,
+          "valueChangeRate": 1.54
+        }
+      },
+      {
+        "date": "2014",
+        "datapoint": {
+          "cashIn": 0,
+          "cashOut": 23351,
+          "totalPortfolioValue": 8786725.53,
+          "valueChangeRate": -2.51
+        }
+      }
+    ],
+    "monthly": [
+      {
+        "date": "201308",
+        "datapoint": {
+          "cashIn": 356211,
+          "cashOut": 17960,
+          "totalPortfolioValue": 8522084.53,
+          "valueChangeRate": -1.11
+        }
+      },
+      {
+        "date": "201309",
+        "datapoint": {
+          "cashIn": 0,
+          "cashOut": 7946,
+          "totalPortfolioValue": 8793943.53,
+          "valueChangeRate": 3.19
+        }
+      },
+      {
+        "date": "201310",
+        "datapoint": {
+          "cashIn": 195243,
+          "cashOut": 47291,
+          "totalPortfolioValue": 8776681.53,
+          "valueChangeRate": -0.2
+        }
+      },
+      {
+        "date": "201311",
+        "datapoint": {
+          "cashIn": 0,
+          "cashOut": 26581,
+          "totalPortfolioValue": 8837457.53,
+          "valueChangeRate": 0.69
+        }
+      },
+      {
+        "date": "201312",
+        "datapoint": {
+          "cashIn": 0,
+          "cashOut": 32983,
+          "totalPortfolioValue": 8746283.53,
+          "valueChangeRate": -1.03
+        }
+      },
+      {
+        "date": "201401",
+        "datapoint": {
+          "cashIn": 0,
+          "cashOut": 44353,
+          "totalPortfolioValue": 8682360.53,
+          "valueChangeRate": -0.73
+        }
+      },
+      {
+        "date": "201402",
+        "datapoint": {
+          "cashIn": 0,
+          "cashOut": 20857,
+          "totalPortfolioValue": 8589126.53,
+          "valueChangeRate": -1.07
+        }
+      },
+      {
+        "date": "201403",
+        "datapoint": {
+          "cashIn": 78900,
+          "cashOut": 30224,
+          "totalPortfolioValue": 8505631.53,
+          "valueChangeRate": -0.97
+        }
+      },
+      {
+        "date": "201404",
+        "datapoint": {
+          "cashIn": 76494,
+          "cashOut": 39425,
+          "totalPortfolioValue": 8526184.53,
+          "valueChangeRate": 0.24
+        }
+      },
+      {
+        "date": "201405",
+        "datapoint": {
+          "cashIn": 0,
+          "cashOut": 42249,
+          "totalPortfolioValue": 8503924.53,
+          "valueChangeRate": -0.26
+        }
+      },
+      {
+        "date": "201406",
+        "datapoint": {
+          "cashIn": 0,
+          "cashOut": 3997,
+          "totalPortfolioValue": 8443550.53,
+          "valueChangeRate": -0.71
+        }
+      },
+      {
+        "date": "201407",
+        "datapoint": {
+          "cashIn": 0,
+          "cashOut": 18498,
+          "totalPortfolioValue": 8410966.53,
+          "valueChangeRate": -0.39
+        }
+      },
+      {
+        "date": "201408",
+        "datapoint": {
+          "cashIn": 288976,
+          "cashOut": 37494,
+          "totalPortfolioValue": 8360298.53,
+          "valueChangeRate": -0.6
+        }
+      },
+      {
+        "date": "201409",
+        "datapoint": {
+          "cashIn": 0,
+          "cashOut": 5322,
+          "totalPortfolioValue": 8525723.53,
+          "valueChangeRate": 1.98
+        }
+      }
+    ]
+  },
+  "allocations": [
+    {
+      "date": "201308",
+      "assetAllocation": {
+        "equities": 47.4,
+        "bonds": 24.91,
+        "cash": 19.04,
+        "other": 8.65
+      }
+    },
+    {
+      "date": "201309",
+      "assetAllocation": {
+        "equities": 52.08,
+        "bonds": 22.54,
+        "cash": 18.82,
+        "other": 6.57
+      }
+    },
+    {
+      "date": "201310",
+      "assetAllocation": {
+        "equities": 51.55,
+        "bonds": 25.78,
+        "cash": 17.53,
+        "other": 5.14
+      }
+    },
+    {
+      "date": "201311",
+      "assetAllocation": {
+        "equities": 53.6,
+        "bonds": 26.99,
+        "cash": 14.4,
+        "other": 5.01
+      }
+    },
+    {
+      "date": "201312",
+      "assetAllocation": {
+        "equities": 54.81,
+        "bonds": 26.21,
+        "cash": 14.73,
+        "other": 4.25
+      }
+    },
+    {
+      "date": "201401",
+      "assetAllocation": {
+        "equities": 55.93,
+        "bonds": 24.49,
+        "cash": 16.1,
+        "other": 3.48
+      }
+    },
+    {
+      "date": "201402",
+      "assetAllocation": {
+        "equities": 55.61,
+        "bonds": 23.75,
+        "cash": 16.73,
+        "other": 3.91
+      }
+    },
+    {
+      "date": "201403",
+      "assetAllocation": {
+        "equities": 54.46,
+        "bonds": 25.08,
+        "cash": 16.03,
+        "other": 4.44
+      }
+    },
+    {
+      "date": "201404",
+      "assetAllocation": {
+        "equities": 50.9,
+        "bonds": 28.09,
+        "cash": 16.45,
+        "other": 4.56
+      }
+    },
+    {
+      "date": "201405",
+      "assetAllocation": {
+        "equities": 54.72,
+        "bonds": 24.43,
+        "cash": 15.41,
+        "other": 5.43
+      }
+    },
+    {
+      "date": "201406",
+      "assetAllocation": {
+        "equities": 50.51,
+        "bonds": 22.99,
+        "cash": 24.36,
+        "other": 2.13
+      }
+    },
+    {
+      "date": "201407",
+      "assetAllocation": {
+        "equities": 59.5,
+        "bonds": 23.16,
+        "cash": 14.42,
+        "other": 2.92
+      }
+    },
+    {
+      "date": "201408",
+      "assetAllocation": {
+        "equities": 57.34,
+        "bonds": 23.73,
+        "cash": 14.85,
+        "other": 4.08
+      }
+    },
+    {
+      "date": "201409",
+      "assetAllocation": {
+        "equities": 58.36,
+        "bonds": 24.42,
+        "cash": 14.64,
+        "other": 2.59
+      }
+    }
+  ]
+}
