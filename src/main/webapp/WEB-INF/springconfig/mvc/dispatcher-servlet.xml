@@ -23,15 +23,15 @@ http://www.springframework.org/schema/context
 
     </bean>
 
-    <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter">
+    <!--&lt;!&ndash;<bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter">
         <property name="messageConverters">
             <list>
                 <ref bean="jsonMessageConvertor"></ref>
             </list>
         </property>
     </bean>
-    <bean id="jsonMessageConvertor"  class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter"></bean>
-
+    <bean id="jsonMessageConvertor"  class="org&ndash;&gt;.springframework.http.converter.json.MappingJackson2HttpMessageConverter"></bean>
+-->
     <import resource="controllers.xml" />
 
 </beans>
